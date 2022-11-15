@@ -69,8 +69,13 @@ def order(request):
     }
     return render(request,'main/order.html',context)
 
-def ordersingle(request):
-    return render(request,'main/ordersingle.html')
+def ordersingle(request,pk):
+    orders = Order.objects.get(pk = pk) 
+    items = OrderItem.objects.filter(order = orders)
+    context = {
+        'items' : item,
+    }
+    return render(request,'main/ordersingle.html',context)
 
 def success(request):
     return render(request,'main/success.html')
