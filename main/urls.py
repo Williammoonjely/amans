@@ -10,7 +10,7 @@ urlpatterns = [
     path('cart/',views.cart, name = 'cart'),
     path('checkout/',views.checkout, name = 'checkout'),
     path('order/',views.order,name = 'order'),
-    path('ordersingle/',views.ordersingle, name = 'ordersingle'),
+    path('ordersingle/<int:pk>',views.ordersingle, name = 'ordersingle'),
     path('success',views.success, name = 'success'),
     
     path('cart_add/<int:pk>',views.cart_add,name = 'cart_add'),

@@ -39,10 +39,13 @@ def cart(request):
 
 def checkout(request):
     cart = Cart(request)
+    print('checkout me')
     if request.method == "POST":
         form = OrderForms(request.POST)
+        print('posted me')
         if form.is_valid():
             order = form.save()
+            print('saved me')
             for item in cart:
                 OrderItem.objects.create(
                     order = order,
