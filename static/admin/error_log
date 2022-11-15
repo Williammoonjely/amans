@@ -1,0 +1,55 @@
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Undefined array key "afadminuser_role" in /home2/coldc2yn/public_html/amansfood.com/admin/config/user.php on line 3
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Undefined array key "afadminuser_id" in /home2/coldc2yn/public_html/amansfood.com/admin/config/user.php on line 4
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Undefined array key "afadminuser_username" in /home2/coldc2yn/public_html/amansfood.com/admin/config/setup.php on line 2
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/function.php on line 13
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Undefined array key "user_image" in /home2/coldc2yn/public_html/amansfood.com/admin/config/function.php on line 14
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 44
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 53
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 56
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 57
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/index.php on line 72
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/index.php on line 77
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Undefined array key "afadminuser_role" in /home2/coldc2yn/public_html/amansfood.com/admin/config/user.php on line 3
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Undefined array key "afadminuser_id" in /home2/coldc2yn/public_html/amansfood.com/admin/config/user.php on line 4
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Undefined array key "afadminuser_username" in /home2/coldc2yn/public_html/amansfood.com/admin/config/setup.php on line 2
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/function.php on line 13
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Undefined array key "user_image" in /home2/coldc2yn/public_html/amansfood.com/admin/config/function.php on line 14
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 44
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 53
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 56
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 57
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/index.php on line 72
+[01-Nov-2022 05:12:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/index.php on line 77
+[01-Nov-2022 19:43:11 UTC] PHP Warning:  Undefined array key "afadminuser_role" in /home2/coldc2yn/public_html/amansfood.com/admin/config/user.php on line 3
+[01-Nov-2022 19:43:11 UTC] PHP Warning:  Undefined array key "afadminuser_id" in /home2/coldc2yn/public_html/amansfood.com/admin/config/user.php on line 4
+[01-Nov-2022 19:43:11 UTC] PHP Warning:  Undefined array key "afadminuser_username" in /home2/coldc2yn/public_html/amansfood.com/admin/config/setup.php on line 2
+[01-Nov-2022 19:43:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/function.php on line 13
+[01-Nov-2022 19:43:11 UTC] PHP Warning:  Undefined array key "user_image" in /home2/coldc2yn/public_html/amansfood.com/admin/config/function.php on line 14
+[01-Nov-2022 19:43:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 44
+[01-Nov-2022 19:43:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 53
+[01-Nov-2022 19:43:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 56
+[01-Nov-2022 19:43:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 57
+[01-Nov-2022 19:43:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/index.php on line 72
+[01-Nov-2022 19:43:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/index.php on line 77
+[05-Nov-2022 05:40:58 UTC] PHP Warning:  Undefined array key "afadminuser_role" in /home2/coldc2yn/public_html/amansfood.com/admin/config/user.php on line 3
+[05-Nov-2022 05:40:58 UTC] PHP Warning:  Undefined array key "afadminuser_id" in /home2/coldc2yn/public_html/amansfood.com/admin/config/user.php on line 4
+[05-Nov-2022 05:40:58 UTC] PHP Warning:  Undefined array key "afadminuser_username" in /home2/coldc2yn/public_html/amansfood.com/admin/config/setup.php on line 2
+[05-Nov-2022 05:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/function.php on line 13
+[05-Nov-2022 05:40:58 UTC] PHP Warning:  Undefined array key "user_image" in /home2/coldc2yn/public_html/amansfood.com/admin/config/function.php on line 14
+[05-Nov-2022 05:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 44
+[05-Nov-2022 05:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 53
+[05-Nov-2022 05:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 56
+[05-Nov-2022 05:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 57
+[05-Nov-2022 05:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/index.php on line 72
+[05-Nov-2022 05:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/index.php on line 77
+[05-Nov-2022 05:41:00 UTC] PHP Warning:  Undefined array key "afadminuser_role" in /home2/coldc2yn/public_html/amansfood.com/admin/config/user.php on line 3
+[05-Nov-2022 05:41:00 UTC] PHP Warning:  Undefined array key "afadminuser_id" in /home2/coldc2yn/public_html/amansfood.com/admin/config/user.php on line 4
+[05-Nov-2022 05:41:00 UTC] PHP Warning:  Undefined array key "afadminuser_username" in /home2/coldc2yn/public_html/amansfood.com/admin/config/setup.php on line 2
+[05-Nov-2022 05:41:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/function.php on line 13
+[05-Nov-2022 05:41:00 UTC] PHP Warning:  Undefined array key "user_image" in /home2/coldc2yn/public_html/amansfood.com/admin/config/function.php on line 14
+[05-Nov-2022 05:41:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 44
+[05-Nov-2022 05:41:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 53
+[05-Nov-2022 05:41:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 56
+[05-Nov-2022 05:41:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/config/header.php on line 57
+[05-Nov-2022 05:41:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/index.php on line 72
+[05-Nov-2022 05:41:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/coldc2yn/public_html/amansfood.com/admin/index.php on line 77
